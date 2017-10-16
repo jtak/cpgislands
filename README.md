@@ -29,6 +29,7 @@ Use `-v` to see the number of CpG-sites etc.
 Use `python3 cpgislands.py -f SH1_genome.fasta` to test a longer sequence
 
 Fetch a sequence from GenBank with ID NC\_012211:
+
 `python3 cpgislands.py --genbank NC_012211 --email EMAIL-ADDRESS`
 
 Entrez requires an email address to prevent abuse.
